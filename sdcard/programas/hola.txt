@@ -1,0 +1,3 @@
+TITLE Hola desde la SD
+PRINT Bienvenido al OS
+DELAY 2000

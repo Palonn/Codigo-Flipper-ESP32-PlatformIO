@@ -1,0 +1,6 @@
+-- BadUSB (teclado BLE)
+os.title("BadUSB")
+print("Ejecutando demo.txt...")
+os.badusb("/badusb/demo.txt")
+os.delay(800)
+os.wait()

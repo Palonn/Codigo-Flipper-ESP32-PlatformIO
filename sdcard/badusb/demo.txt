@@ -1,0 +1,9 @@
+# Demo BadUSB - abre el bloc de notas y escribe un mensaje
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 800
+STRING Hola! Soy tu Flipper-S2 hecho con ESP32.
+ENTER
